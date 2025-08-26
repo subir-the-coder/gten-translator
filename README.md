@@ -1,7 +1,7 @@
 # GTEN Translator
 
 🚀 **Spanish to English Translator**  
-Developed by **GTEN Technologies**
+Author: Subir Sutradhar | **GTEN Technologies**
 
 ---
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/22daeb09-fab9-4706-9495-cce08ba3b721" />
