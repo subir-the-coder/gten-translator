@@ -8,7 +8,6 @@ Author: Subir Sutradhar | **GTEN Technologies**
 
 ## Features
 - Translate Spanish text to English
-- Banner with version
 - License agreement protection
 
 ---
