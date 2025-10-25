@@ -1,29 +1,19 @@
-GTEN Technologies — Proprietary License
-Copyright (c) 2025 GTEN Technologies. All Rights Reserved.
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
 
-This software (the "Software"), including all source code, documentation,
-examples, and associated files, is the confidential and proprietary property
-of GTEN Technologies (the "Company").
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
-PERMITTED USE:
-  - The Software may be used internally by authorized employees or contractors
-    of GTEN Technologies, subject to any internal policies and agreements.
+   Copyright 2025 Subir Sutradhar
 
-PROHIBITED ACTIONS (without express prior written permission from GTEN Technologies):
-  - Copying, reproducing, sublicensing, distributing, or making the Software
-    available to any third party.
-  - Publishing, uploading, or otherwise making public any portion of the
-    Software or its outputs (including derived works) outside GTEN Technologies.
-  - Modifying, merging, reverse-engineering, decompiling, or creating derivative
-    works for external distribution.
-  - Use for commercial, academic, or public services outside explicit Company
-    approval.
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
 
-DISCLAIMER:
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED. THE COMPANY SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM THE USE
-  OR INABILITY TO USE THE SOFTWARE. UNAUTHORIZED USE OR DISTRIBUTION MAY RESULT
-  IN CIVIL OR CRIMINAL LIABILITY.
+       http://www.apache.org/licenses/LICENSE-2.0
 
-If you are not an authorized representative of GTEN Technologies, stop now and
-notify the software owner. All rights reserved.
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
